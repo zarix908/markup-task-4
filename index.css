@@ -80,13 +80,13 @@ main
     display: inline-block;
     border-radius: 25px;
     margin: 10px;
-    box-shadow: 5px 5px 15px 5px #969696;
     background-color: #e6e6e6;
 }
 
 .card:hover
 {
     transform: scale(1.05);
+    box-shadow: 5px 5px 15px 5px #969696;
 }
 
 .card img
